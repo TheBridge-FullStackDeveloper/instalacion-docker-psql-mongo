@@ -33,7 +33,11 @@ Descargar dmg, arrastrar a carpeta aplicaciones
  
 ---
 
-3.- Verifica que Docker se instaló correctamente abriendo una terminal y ejecutando el siguiente comando:
+3.- Verifica que Docker se instaló correctamente:
+
+Abre Docker Desktop (esto inicia un proceso en segundo plano que nos permite ejecutar comandos de docker)
+
+Sin cerrarlo, abre una terminal y ejecuta el siguiente comando:
   
 
 ```docker --version```
