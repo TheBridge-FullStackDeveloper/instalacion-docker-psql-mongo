@@ -15,7 +15,17 @@
   
 Una vez descargado, abre el instalador y sigue las instrucciones en pantalla (selecciona "use WSL2 instead of Hyper-V" cuando te lo pregunte)
 
+Si pide actualizar el kernel de linux, acceder al enlace que sugiere el cuadro de dialogo y descargar el paquete. Seguir el asistente.
+
+Establecer WSL 2 como versión predeterminada. 
+
+Abrir una terminal y ejecutar
+```
+wsl --set-default-version 2
+```
 Tras la instalación, reinicia tu sistema.
+
+
 
 ---
 ### macOS 
