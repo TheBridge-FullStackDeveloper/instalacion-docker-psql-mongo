@@ -99,7 +99,7 @@ Reemplaza '&lt;your_password&gt;' con '123456'
 
  - Descarga e instala pgAdmin4:
    - [Windows](https://www.pgadmin.org/download/)
-   - [macOS](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v7.1/macos/)
+   - [macOS](https://www.pgadmin.org/download/pgadmin-4-macos/)
 
  - Inicia pgAdmin4
 
@@ -142,9 +142,9 @@ Ejecuta este comando para ello:
 Compass es el visor de las bases de datos de MongoDB, para utilizarlo sigue los siguientes pasos:
 
 
- - Descarga e instala MongoDB Compass: 
+ - Descarga e instala MongoDB Compass, la última versión estable: 
     - [Windows](https://www.mongodb.com/try/download/compass)
-    - [macOS](https://www.mongodb.com/try/download/compass) v.1.37 (stable), usar dmg 
+    - [macOS](https://www.mongodb.com/try/download/compass), usar dmg 
     <p></p>
 
 
